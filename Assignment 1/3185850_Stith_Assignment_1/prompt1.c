@@ -1,10 +1,11 @@
 /* 
 AI Used: Copilot
-Creator: Baylie Stith
+Creator: Baylie Stith (Added Comments)
 This is a C program that prompts the user to guess a secret number between 1 and 10. The user has up to 3 attempts to guess 
 the correct number. After each guess, the program provides feedback on whether the guess was too low, too high, or correct. 
 If the user guesses correctly, they win; otherwise, they lose after 3 attempts.
 Date: 9/6/2026
+Edited: 9/8/2026
 */ 
 
 #include <stdio.h>
